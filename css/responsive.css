@@ -156,6 +156,9 @@
     .home-content h1 {
         font-size: 5rem;
     }
+    .home.show-animate {
+        height: 100%;
+    }
 }
 
 /* KEYFRAMES ANIMATION */
