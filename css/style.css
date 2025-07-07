@@ -89,7 +89,7 @@ section {
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url('../assets/myImage.jpg') no-repeat;
+    background: url('../assets/img-lg.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -263,7 +263,7 @@ section {
     position: absolute;
     top: 0;
     right: 0;
-    width: 45%;
+    width: 50%;
     height: 100%;
     background: transparent;
     transition: 3s;
