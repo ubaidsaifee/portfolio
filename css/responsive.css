@@ -144,6 +144,7 @@
 @media (max-width: 371px) {
     .home {
         justify-content: center;
+        background: none;
     }
 
     .home-content {
@@ -155,9 +156,6 @@
 
     .home-content h1 {
         font-size: 5rem;
-    }
-    .home.show-animate {
-        height: 100%;
     }
 }
 
